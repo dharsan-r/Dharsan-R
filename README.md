@@ -12,12 +12,12 @@
 
 ### <p> 🔭 I’m currently working on:</p>
 * School 🏫
-* Personal Website
-* Yahoo Finance Stock Recommender📈
+* Personal Website 💻
+* Yahoo Finance Stock Recommender 📈
 
 * Some extra-cirriculars I'm in:
   * Software Developer @ Queen's University Web Development Team 📱
-  * Orientation Tech @ Queens's Computing Orientation 
+  * Orientation Tech @ Queens's Computing Orientation 😄 
 
 <!-- Use for later commits
 - 😄 Pronouns: ...
