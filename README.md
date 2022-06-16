@@ -7,8 +7,7 @@
 ##
 
 ### <p>🌱 I’m currently learning:</p>
-* Unity
-* Docker
+* Azure
 
 ### <p> 🔭 I’m currently working on:</p>
 * School 🏫
