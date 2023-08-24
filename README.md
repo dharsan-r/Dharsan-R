@@ -10,12 +10,13 @@
 * Azure
 
 ### <p> 🔭 I’m currently working on:</p>
-* School 🏫
-* Personal Website 💻
+* School 🎓
+* Personal Website 👨‍💻
 * Yahoo Finance Stock Recommender 📈
 
 * Some extra-cirriculars I'm in:
-  * Software Developer @ Queen's University Web Development Team 📱
+  * Software Developer @ Queen's Tech and Media Association (QTMA) 💻
+  * Software Developer @ Queen's University Web Development Team (QWEB) 🌐
   * Orientation Tech @ Queens's Computing Orientation 😄 
 
 <!-- Use for later commits
